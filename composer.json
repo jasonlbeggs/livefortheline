@@ -1,5 +1,6 @@
 {
     "require": {
-        "tightenco/jigsaw": "^1.6"
+        "tightenco/jigsaw": "^1.8",
+        "laravel/framework": "^12.49"
     }
 }
